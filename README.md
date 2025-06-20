@@ -1,4 +1,4 @@
-# Routing & Switching Configurations (Practice SBA)
+# Routing & Switching Configurations
 
 This project contains a simulated configuration task for a small routed network using **Cisco Packet Tracer**. It serves as a practice Skills-Based Assessment (SBA) for networking students and helps reinforce essential configuration tasks on routers, switches, and end devices.
 
